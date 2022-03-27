@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently working on at the moment i am working at kenzie academy Brazil as a Peer coach
+- 🚞 I'm looking for new ways
 - 💡 I'm currently working with front-end
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: luanpbs98@gmail.com 
