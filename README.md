@@ -6,7 +6,7 @@
 - 💡 I'm currently working with front-end
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: luanpbs98@gmail.com 
-- 🃏 Linkedin: https://www.linkedin.com/in/luan-pereira-6654281b3/
+- 🃏 Linkedin: https://www.linkedin.com/in/luanpereirabarbosa/
 - 😄 Pronouns: he / him
 
 <div align="center">
