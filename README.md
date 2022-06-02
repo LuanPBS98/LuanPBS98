@@ -65,9 +65,9 @@
 <hr>
 <h2>Social medias</h2>
 <div> 
-  <a href="https://www.instagram.com/luanpereirabarbosadasilva/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"></a>
-  <a href = "mailto:luanpbs98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luan-pereira-6654281b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/luanpereirabarbosadasilva/" target="_blank"><img height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"></a>
+  <a href = "mailto:luanpbs98@gmail.com"><img height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luan-pereira-6654281b3/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
  
   ![Snake animation](https://github.com/LuanPBS98/LuanPBS98/blob/output/github-contribution-grid-snake.svg)
  
