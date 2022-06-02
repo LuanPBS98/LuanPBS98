@@ -56,8 +56,8 @@
   <img align="center" alt="Luan-Insomnia" height="40" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/insomnia-icon.png">
   <img align="center" alt="Luan-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
   <img align="center" alt="Luan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Luan-NPM" height="40" width="40" src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-icon-lightbg.svg">
-  <img align="center" alt="Luan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Luan-BK" height="30" width="30" src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-icon-lightbg.svg">
+  <img align="center" alt="Luan-DB" height="30" width="40" src="https://dbeaver.com/img/dbeaver-head.png">
   <img align="center" alt="Luan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Luan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Luan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
@@ -65,7 +65,7 @@
 <hr>
 <h2>Social medias</h2>
 <div> 
-  <a href="https://www.instagram.com/luanpereirabarbosadasilva/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  <a href="https://www.instagram.com/luanpereirabarbosadasilva/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"></a>
   <a href = "mailto:luanpbs98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-pereira-6654281b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
