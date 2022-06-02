@@ -26,6 +26,7 @@
   <img align="center" alt="Luan-Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
   <img align="center" alt="Luan-Chakra_ui" height="40" width="40" src="https://img.icons8.com/color/452/chakra-ui.png">
   <img align="center" alt="Luan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Luan-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
 </div>
  <hr>
 <div style="display: inline_block"><br>
