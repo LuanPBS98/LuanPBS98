@@ -56,6 +56,11 @@
   <img align="center" alt="Luan-Insomnia" height="40" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/insomnia-icon.png">
   <img align="center" alt="Luan-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
   <img align="center" alt="Luan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Luan-NPM" height="40" width="40" src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-icon-lightbg.svg">
+  <img align="center" alt="Luan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Luan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Luan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Luan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 </div>
 <hr>
 <h2>Social medias</h2>
