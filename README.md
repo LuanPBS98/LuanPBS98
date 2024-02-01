@@ -1,10 +1,9 @@
 ### Hi there 👋,you can call me Luan Pereira
 
 
-- 🔭 I’m currently working on at the moment i am working at kenzie academy Brazil as a Peer coach
+- 🔭 I’m currently working on at the moment i am working at Grupo boticário as a Full-stack developer
 - 🚞 I'm looking for new ways
-- 💡 I'm currently working with front-end
-- 🌱 I’m currently learning Python and Django
+- 💡 I'm currently working with front-end and back-end
 - 📫 How to reach me: luanpbs98@gmail.com 
 - 🃏 Linkedin: https://www.linkedin.com/in/luanpereirabarbosa/
 - 😄 Pronouns: he / him
